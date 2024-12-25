@@ -1,7 +1,11 @@
 ### Hi there 👋
+
 McMaster Universtiy Alumni
+
 McMaster Baja Racing Alumni and previous Controls Team Lead
+
 Mechatronics Engineering Major
+
 Software & Controls Developer at General Motors
 
 <!--
